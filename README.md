@@ -1,7 +1,7 @@
 ### QDNAseq: Quantitative DNA sequencing for chromosomal aberrations
 
 This repository contains source code for the R/Bioconductor package
-[QDNAseq](http://bioconductor.org/packages/release/bioc/html/QDNAseq.html).
+[QDNAseq](http://bioconductor.org/packages/release/bioc/html/QDNAseq.html) with minor modifications for processing of liquid biopsy processing. Size selection based on read length and plotting functionality specific for Liquid Biopsy samples was added - otherwise no changes were made.
 For a description, please see
 [this article](http://genome.cshlp.org/content/24/12/2022.long),
 and for usage, the vignette from Bioconductor
